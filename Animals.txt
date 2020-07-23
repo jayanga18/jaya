@@ -5,6 +5,9 @@ elephant
 lion
 cat brown
 
+dog
+tiger
+
 
 
 thank you!
